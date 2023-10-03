@@ -99,7 +99,7 @@ col1,mid,col2 = st.columns([6.5,1,20])
 with col1:
     st.image("custai.png", width=300)
 with col2:
-    st.title('CONFIG MAPPING')
+    st.title('TABLE MAPPING')
  
 
 # Add custom CSS to adjust page width
